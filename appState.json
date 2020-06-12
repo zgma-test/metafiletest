@@ -1,0 +1,70 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "20c9c080-cd07-4c51-9f52-75b1f9eb2f4c": {
+        "id": "20c9c080-cd07-4c51-9f52-75b1f9eb2f4c",
+        "parent": null,
+        "name": "MetaFileTest.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "MetaFileTest.js",
+        "cursor": {
+          "lineNumber": 4,
+          "column": 3
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "MetaFileTest"
+        },
+        "triggers": []
+      }
+    },
+    "openFiles": [
+      "20c9c080-cd07-4c51-9f52-75b1f9eb2f4c"
+    ],
+    "currentFileId": "20c9c080-cd07-4c51-9f52-75b1f9eb2f4c",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "MetaFileTest",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1591944260062
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "metafiletest",
+      "url": "https://github.com/zgma-test/metafiletest"
+    }
+  }
+}
