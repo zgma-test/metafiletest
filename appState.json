@@ -31,9 +31,9 @@
     "currentFileId": "20c9c080-cd07-4c51-9f52-75b1f9eb2f4c",
     "resources": {},
     "customTemplate": {
-      "syntax": "JSON",
+      "syntax": "YAML",
       "overrideDefault": false,
-      "dialect": null,
+      "dialect": "CloudFormation",
       "definitions": null
     },
     "envVariables": [
@@ -58,7 +58,8 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1591945100202
+    "lastSave": 1591945605797,
+    "sigmaVersion": "1.3.27"
   },
   "VCS_STATE": {
     "provider": "GitHub",
