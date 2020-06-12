@@ -31,10 +31,17 @@
     "currentFileId": "20c9c080-cd07-4c51-9f52-75b1f9eb2f4c",
     "resources": {},
     "customTemplate": {
-      "syntax": "YAML",
-      "overrideDefault": false,
       "dialect": "CloudFormation",
-      "definitions": null
+      "definitions": {
+        "Resources": {
+          "MetaFileTest": {
+            "Properties": {
+              "Description": "Custom Description"
+            }
+          }
+        }
+      },
+      "syntax": "YAML"
     },
     "envVariables": [
       {
@@ -58,7 +65,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1591949346887,
+    "lastSave": 1591949472336,
     "sigmaVersion": "1.3.27"
   },
   "VCS_STATE": {
