@@ -41,7 +41,7 @@
           }
         }
       },
-      "syntax": "YAML"
+      "syntax": "JSON"
     },
     "envVariables": [
       {
@@ -65,7 +65,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1591949472336,
+    "lastSave": 1591949507399,
     "sigmaVersion": "1.3.27"
   },
   "VCS_STATE": {
